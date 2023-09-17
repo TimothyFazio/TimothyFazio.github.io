@@ -1,0 +1,34 @@
+h1 {
+    color: rgb(200,20,0);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body {
+    background-color: coral;
+}
+.textDiv {
+    border: 3px solid rgb(200,0,0);
+    background-color: rgb(181, 189, 23);
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+.tableDiv {
+    background-color: rgb(151, 18, 18);
+    width: 800px;
+    border: 3px solid rgb(48, 43, 43);
+    text-align: center;
+    height: 50px;
+    margin: auto;
+}
+#banner {
+    border: 3px solid rgb(48, 43, 43);
+}
+.center {
+    text-align: center;
+}
+.aboutme {
+    background-image: url(mybackground.jpg);
+}
